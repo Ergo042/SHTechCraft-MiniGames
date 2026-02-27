@@ -15,4 +15,6 @@
 
 ### 报告问题/提供反馈
 
-在https://github.com/ShanghaitechGeekPie/SHTechCraft-MiniGames/issues处报告小游戏中遇到的问题或者提供反馈。报告问题时请尽量描述清楚问题以及预期行为，便于我们定位和修复问题。
+请在此处报告小游戏中遇到的问题或者提供反馈: https://github.com/ShanghaitechGeekPie/SHTechCraft-MiniGames/issues
+
+报告问题时请尽量描述清楚问题以及预期行为，便于我们定位和修复问题。
