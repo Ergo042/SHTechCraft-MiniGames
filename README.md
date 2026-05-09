@@ -9,7 +9,7 @@
 - GameVoting: 小游戏服务器大厅投票功能的实现 https://github.com/TalexCK/GameVoting
 - AutoRank: 大厅小游戏排行榜展示功能的实现 https://github.com/namenotfound64/AutoRank
 - miniGameStastic: 小游戏服务器自动收集游戏结果的插件 https://github.com/namenotfound64/miniGameStastic
-- Cloudlet_bot: 小游戏服务器QQ机器人 https://github.com/Ergo042/cloudnet_bot
+- Cloudlet_bot: 小游戏服务器nonebotQQ机器人 https://github.com/Ergo042/cloudnet_bot MCP实现:https://github.com/Ergo042/nonebot-plugin-cloudnet-bot.git
 
 
 
